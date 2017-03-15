@@ -1,4 +1,4 @@
-Ruby automation - Instructuions to run :
+Ruby automation - Instructuions to run:
 
 (The setup assumes you are running on a Mac OS system and you have ruby installed. If this is not the case, minor changes will be required.)
 
